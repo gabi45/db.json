@@ -1,0 +1,37 @@
+{
+
+  "filme":[
+    { "id": "1", "nome": "Um senhor estagiário", "lancamento": "2015", "genero": "comédia"},
+    { "id": "2", "nome": "Uma linda mulher", "lancamento": "1990", "genero": "comédia romântica"},
+    { "id": "3", "nome": "O curioso caso de Benjamin Button", "lancamento": "2008", "genero": "drama romântico e fantasia"},
+    { "id": "4", "nome": "O espetacular Homem-Aranha", "lancamento": "2012", "genero": "ação, aventura e fantasia"},
+    { "id": "5", "nome": "Annabelle", "lancamento": "2014", "genero": "terror"}
+    
+    
+  ],
+  
+  "clientes":[
+    { "id": "1", "nome": "Paula Larissa", "endereço": "Rua Estrela,80", "idade": "20", "telefone": "3445-9876"},
+    { "id": "2", "nome": "Ana Paula", "endereço": "Rua Icácia,12", "idade": "35", "telefone": "5690-8765"},
+    { "id": "3", "nome": "Caroline Letícia", "endereço": "Rua Rodrigo Faro,126", "idade": "45", "telefone": "5669-8732"},
+    { "id": "4", "nome": "Lucas Murillo", "endereço": "Rua Santo Amaro,456", "idade": "18", "telefone": "99876-5438"},
+      { "id": "5", "nome": "Ramon Robson", "endereço": "Maristela Leão,876", "idade": "50", "telefone": "99543-8764"}
+
+  ],
+
+  "locacao":[
+    { "id": "1", "idFilme": "10", "id cliente": "01"},
+    { "id": "2", "idFilme": "11", "id cliente": "02"},
+    { "id": "3", "idFilme": "12", "id cliente": "03"},
+    { "id": "4", "idFilme": "13", "id cliente": "04"},
+    { "id": "5", "idFilme": "14", "id cliente": "05"}
+  ]
+}
+  
+  
+  
+  
+
+
+    
+
